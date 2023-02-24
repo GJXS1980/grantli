@@ -54,6 +54,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+<!--StartFragment-->
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+李伟政是一名机器人工程师，负责研发与智能机器人相关的算法及场景应用。完成过各种轮式机器人的运动控制、自主导航、语音交互、多机器人协同和模式识别等功能。Li Weizheng is a robot engineer, responsible for developing algorithms and scene applications related to intelligent robots. It has completed the functions of motion control, autonomous navigation, voice interaction, multi-robot cooperation and pattern recognition of various wheeled robots.
+
 {style="text-align: justify;"}
