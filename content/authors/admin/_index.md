@@ -33,8 +33,8 @@ social:
     icon_pack: fab
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Guangdong University of Technology
+    url: https://www.gdut.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
