@@ -1,6 +1,7 @@
 ---
 title: Grant Li 李伟政
-role: Professor of Artificial Intelligence
+role: 机器人工程师（Robot engineer）
+avatar_filename: ladpbg1q8d1ilitnax3nag8_527_797.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
