@@ -1,7 +1,7 @@
 ---
 title: Grant Li 李伟政
 role: 机器人工程师（Robot Engineer）
-avatar_filename: ladpbg1q8d1ilitnax3nag8_527_797.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
