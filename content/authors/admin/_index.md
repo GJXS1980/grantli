@@ -2,8 +2,10 @@
 title: Grant Li 李伟政
 role: 机器人工程师（Robot Engineer）
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 我擅长的领域包括分布式机器人控制、机器人运动控制、机器视觉、智能语音、SLAM、机械臂运动控制、物联网控制。（My fields of
+  expertise include distributed robot control, robot motion control, machine
+  vision, intelligent voice, SLAM, robot arm motion control, Internet of Things
+  control）
 interests:
   - Artificial Intelligence
   - Computational Linguistics
